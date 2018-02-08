@@ -7,6 +7,13 @@
   .allWidth {
     width: 100%;
   }
+  /* overflow */
+  .overflowHidden {
+    overflow: hidden;
+  }
+  .overflowAuto {
+    overflow: auto;
+  }
     /* flex */
 
   .flex {
