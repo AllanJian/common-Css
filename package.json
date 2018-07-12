@@ -1,6 +1,6 @@
 {
   "name": "ljmstyle",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ljm's style",
   "main": "ljmstyle.less",
   "scripts": {
