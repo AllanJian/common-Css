@@ -2,7 +2,7 @@
   "name": "ljmstyle",
   "version": "1.0.4",
   "description": "ljm's style",
-  "main": "ljmstyle.less",
+  "main": "ljmstyle.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
